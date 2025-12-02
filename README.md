@@ -1,6 +1,4 @@
-Sure — here is a clean copy-paste friendly **README.md** (no code formatting around the whole thing, already formatted for GitHub):
 
----
 
 # 📰 RockyBot: AI-Powered Research & News Analyzer
 
